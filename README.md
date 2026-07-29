@@ -28,3 +28,6 @@ Welcome to my first GitHub repository.
 Thank you for visiting my repository!
 
 experimenting in the branch called "experiment"
+
+now i am adding the image from other folder to readme.md file
+![Hello World Output](images/nature.jpg)
