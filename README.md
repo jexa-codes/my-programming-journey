@@ -33,3 +33,5 @@ now i am adding the image from other folder to readme.md file
 ![Hello World Output](images/nature.jpg)
 
 ![Output](images/java/Poster.png)
+
+okay so the above poster is the image added from a folder called java which is inside another folder called image. this image was added for practice purpose and also dont forget to notice my CANVA poster making skills
