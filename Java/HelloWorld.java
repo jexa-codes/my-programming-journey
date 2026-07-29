@@ -6,4 +6,5 @@ public class HelloWorld {
     }
 }
 
-![Output](images/java/Poster.png)
+![Output](../images/java/Poster.png)
+![output](../images/nature.png)
