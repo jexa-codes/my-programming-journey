@@ -5,3 +5,5 @@ public class HelloWorld {
         System.out.println("I'm learning GitHub!");
     }
 }
+
+![Output](images/java/Poster.png)
