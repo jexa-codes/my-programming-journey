@@ -32,4 +32,4 @@ experimenting in the branch called "experiment"
 now i am adding the image from other folder to readme.md file
 ![Hello World Output](images/nature.jpg)
 
-![Output](images/java/Screenshot 2026-05-30 120130.png)
+![Output](images/java/poster.png)
